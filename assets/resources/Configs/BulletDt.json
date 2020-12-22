@@ -1,0 +1,37 @@
+[
+    {
+      "id": 5001,
+      "speed":200,
+      "prefab":"Bullet1"
+    },
+    {
+        "id": 5002,
+        "speed":200,
+        "prefab":"Bullet2"
+    },
+    {
+        "id": 5003,
+        "speed":200,
+        "prefab":"Bullet3"
+    },
+    {
+        "id": 5004,
+        "speed":250,
+        "prefab":"Bullet4"
+    },
+    {
+        "id": 5005,
+        "speed":250,
+        "prefab":"Bullet5"
+    },
+    {
+        "id": 5006,
+        "speed":250,
+        "prefab":"Bullet6"
+    },
+    {
+        "id": 5007,
+        "speed":300,
+        "prefab":"Bullet7"
+    }
+]

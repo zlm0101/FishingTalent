@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fish6",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "1": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "01750a37-271e-4d94-8cf9-1b6dd413e193"
+                }
+              },
+              {
+                "frame": 0.2,
+                "value": {
+                  "__uuid__": "2263bed5-57cb-4b58-bdcf-6f6add544904"
+                }
+              },
+              {
+                "frame": 0.4,
+                "value": {
+                  "__uuid__": "ccea7981-0617-4222-8688-0240a404d170"
+                }
+              },
+              {
+                "frame": 0.6,
+                "value": {
+                  "__uuid__": "662dbc4b-626c-4529-ab0a-07c8f231045e"
+                }
+              },
+              {
+                "frame": 0.8,
+                "value": {
+                  "__uuid__": "710a31a0-b013-4dbd-b524-915f65771965"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "68bd11b4-cf02-4dbc-b12e-5e4354445141"
+                }
+              },
+              {
+                "frame": 1.2,
+                "value": {
+                  "__uuid__": "346c6bcc-6dbb-4b18-8836-c8a44e8b9944"
+                }
+              },
+              {
+                "frame": 1.4,
+                "value": {
+                  "__uuid__": "0c9ea032-0f81-43c3-a825-e5581df7b448"
+                }
+              },
+              {
+                "frame": 1.6,
+                "value": {
+                  "__uuid__": "d700b3c1-ba70-40c8-80c3-0816ac0ecd66"
+                }
+              },
+              {
+                "frame": 1.8,
+                "value": {
+                  "__uuid__": "60c9f057-9c3b-4501-964f-8124de963a17"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

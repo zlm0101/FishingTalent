@@ -1,0 +1,51 @@
+[
+    {
+      "id": 4001,
+      "probability": 100,
+      "scope": 500,
+      "prefab":"Tower1",
+      "bulletID":5001
+    },
+    {
+        "id": 4002,
+        "probability": 150,
+        "scope": 500,
+        "prefab":"Tower2",
+        "bulletID":5002
+    },
+    {
+        "id": 4003,
+        "probability": 200,
+        "scope": 600,
+        "prefab":"Tower3",
+        "bulletID":5003
+    },
+    {
+        "id": 4004,
+        "probability": 250,
+        "scope": 700,
+        "prefab":"Tower4",
+        "bulletID":5004
+    },
+    {
+        "id": 4005,
+        "probability": 300,
+        "scope": 800,
+        "prefab":"Tower5",
+        "bulletID":5005
+    },
+    {
+        "id": 4006,
+        "probability": 350,
+        "scope": 900,
+        "prefab":"Tower6",
+        "bulletID":5006
+    },
+    {
+        "id": 4007,
+        "probability": 400,
+        "scope": 1000,
+        "prefab":"Tower7",
+        "bulletID":5007
+    }
+  ]

@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "PaopaoGrow",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.1,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "41f66d68-c388-4ddd-b393-7b4f9ebd423e"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "e198caed-3a07-4106-bf7d-1590091a8571"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "b704deb8-7ac3-47fb-8c52-848662a4cb22"
+            }
+          },
+          {
+            "frame": 3,
+            "value": {
+              "__uuid__": "41f66d68-c388-4ddd-b393-7b4f9ebd423e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
